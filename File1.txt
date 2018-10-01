@@ -1,4 +1,4 @@
-This is Git Demo...Awesome..#Boring
+This is Git Demo...Awesome..#boring
 
 change1..#Sleepy
 
