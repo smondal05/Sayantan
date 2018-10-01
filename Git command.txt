@@ -64,8 +64,12 @@ SHA key(Encrypted key):
 
  699b752,a9867e3
  git checkout (SHA key) --> we can trackback to the previous commit
+<<<<<<< HEAD
  git checkout master --> we can check out to the master
 
 Creating branch:
 
 git branch "bug123"
+=======
+ git checkout master --> we can check out to the master
+>>>>>>> bug123
