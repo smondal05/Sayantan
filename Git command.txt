@@ -31,14 +31,15 @@ To view basic information about the files wheather it is added or not:
  git status
 
 
-To add files to repos:
+To add files and commiting afterwards to repos:
 
  git add File1.txt
+ git commit -m "This is my first commit." -->(-m) for text message.
 
 
 For commiting as well as adding:
 
- git commit -m "This is my first commit." -->(-m) for text message.
+ git commit -am "This is my first commit." -->(-m) for text message.
 
 
 To add 1 type of file or all file we will use:
