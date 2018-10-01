@@ -1,5 +1,5 @@
 This is Git Demo...Awesome..#boring
 
-change1..#Sleepy
+change-->1..#Sleepy
 
-change2..#hungry#sleepy
+change-->2..#hungry#sleepy
