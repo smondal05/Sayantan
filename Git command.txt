@@ -49,3 +49,23 @@ To add 1 type of file or all file we will use:
  git add . --> all files
 
 
+To get the information about the commited files:
+
+ git log
+ git log --oneline
+ git log oneline -2
+ git log File1.txt
+ git log --author="sayantan"
+ git log --grep="change1"
+ git log --grep="change1" --oneline
+
+
+SHA key(Encrypted key):
+
+ 699b752,a9867e3
+ git checkout (SHA key) --> we can trackback to the previous commit
+ git checkout master --> we can check out to the master
+
+Creating branch:
+
+git branch "bug123"
